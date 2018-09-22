@@ -1,4 +1,2 @@
-add_lunch_combo pixys_osprey-eng
-add_lunch_combo pixys_osprey-user
-add_lunch_combo pixys_osprey-userdebug
+add_lunch_combo aosp_osprey-userdebug
 
